@@ -52,7 +52,7 @@ function SEO({ description, lang, meta, title }) {
           content: `website`,
         },
         {
-          name: `facebook:card`,
+          name: `twitter:card`,
           content: `summary`,
         },
         {

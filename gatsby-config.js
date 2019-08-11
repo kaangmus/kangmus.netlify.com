@@ -5,7 +5,7 @@ module.exports = {
     description: `Berbagi llmu walau tak seberapa`,
     siteUrl: `https://kangmus.netlify.com/`,
     social: {
-      facebook: `musliadi.ii`,
+      twitter: `musliadi.ii`,
     },
   },
   plugins: [
