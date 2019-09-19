@@ -55,7 +55,7 @@ const Bio = () => {
       />
       <p>
         Musliadi <strong>{author}</strong> Mahasiswa Asal Aceh Yang Merantau di Jogja, Menulis salah satu dari hobi saya 
-        Github href={`https://github.com/msmusli`}
+         <a href={`https://github.com/msmusli`}>Github</a>
         <a href={`https://facebook.com/${social.facebook}`}>
           Yuk Berteman di FB
         </a>
