@@ -1,10 +1,10 @@
 ---
-title: Selamat Lebaran Idul Adha 
+title: Kumpulan Project Sederhana
 date: "2019-08-11T22:01:45.284Z"
-description: "Lebaran Idul Adha "
+description: "Kumpulan Project Sederhana"
 ---
 
-Saya Musliadi dan Sekeluarga Mengucapkan Selamat Makan Daging.
+Project : https://github.com/msmusli
 
 
 
