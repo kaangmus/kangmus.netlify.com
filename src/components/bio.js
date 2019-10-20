@@ -59,7 +59,7 @@ const Bio = () => {
           Yuk Berteman di FB
         </a>
     </div>
-  )
+  );
 }
 
 export default Bio
